@@ -1,5 +1,9 @@
 # Custom Apps on Mazda MZD v74 JCI — Research & Implementation Guide
 
+## Preview
+
+[![Custom App Preview](mzd-custom-app-video.gif)](mzd-custom-app-video.gif)
+
 ## Background
 
 This document captures the research and implementation of a method for adding custom applications
